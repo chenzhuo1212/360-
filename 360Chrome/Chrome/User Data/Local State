@@ -1,0 +1,162 @@
+{
+   "browser": {
+      "enable-tab-audio-muting": true,
+      "enable_direct_write": true,
+      "enabled_labs_experiments": [ "enable-tab-audio-muting" ],
+      "hung_plugin_detect_freq": 2000,
+      "last_redirect_origin": "",
+      "last_welcomed_os_version": "10.0",
+      "plugin_message_response_timeout": 25000
+   },
+   "component_update": {
+      "download": {
+         "7zfilesize": "1610118",
+         "comfilepath": "D:\\360浏览器\\360Chrome\\Chrome\\Application\\components\\download\\3.2.1.47"
+      },
+      "npflash": {
+         "7zfilesize": "8215265",
+         "comfilepath": "D:\\360浏览器\\360Chrome\\Chrome\\Application\\components\\npflash\\27_0_0_187"
+      },
+      "ppflash": {
+         "7zfilesize": "7604886",
+         "comfilepath": "D:\\360浏览器\\360Chrome\\Chrome\\Application\\components\\ppflash\\27_0_0_187"
+      }
+   },
+   "easy_unlock": {
+      "device_id": "9d7f42ff-2ca5-4ce2-aece-e3ee49124e84"
+   },
+   "hardware_acceleration_mode": {
+      "enabled": true
+   },
+   "hardware_acceleration_mode_previous": true,
+   "password_manager": {
+      "os_password_blank": false,
+      "os_password_last_changed": "13182821876839905"
+   },
+   "profile": {
+      "info_cache": {
+         "Default": {
+            "active_time": 1539834517.690885,
+            "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
+            "background_apps": false,
+            "gaia_id": "",
+            "is_ephemeral": false,
+            "is_omitted_from_profile_list": false,
+            "is_using_default_avatar": true,
+            "is_using_default_name": true,
+            "managed_user_id": "",
+            "name": "用户1",
+            "shortcut_name": "",
+            "user_name": ""
+         }
+      },
+      "last_active_profiles": [  ]
+   },
+   "rappor": {
+      "cohort_seed": 9,
+      "secret": "rZf2yhlRD4Rfsm+tot4PvQj7o+cOYbKBbVrVQL4lfTVTo5pxqnCP8NZm5sbeoh9K"
+   },
+   "show-first-run-bubble-option": 0,
+   "shutdown": {
+      "num_processes": 0,
+      "num_processes_slow": 0,
+      "type": 0
+   },
+   "skin": {
+      "info": {
+         "crxid": "jisu9",
+         "id": 6,
+         "name": "",
+         "url": "",
+         "version": ""
+      },
+      "last_update": "13184308132686193"
+   },
+   "startup_metric": {
+      "last_startup_timestamp": "13184308116293168",
+      "last_startup_version": "9.5.0.138",
+      "same_version_startup_count": 28
+   },
+   "sync_login_info": {
+      "filepath": "",
+      "qid": ""
+   },
+   "tab_stats": {
+      "last_daily_sample": "13184308117714885",
+      "max_tabs_per_window": 2,
+      "total_tab_count_max": 2,
+      "window_count_max": 1
+   },
+   "task_manager": {
+      "column_visibility": {
+         "IDS_TASK_MANAGER_CPU_COLUMN": true,
+         "IDS_TASK_MANAGER_CPU_TIME_COLUMN": true,
+         "IDS_TASK_MANAGER_GDI_HANDLES_COLUMN": true,
+         "IDS_TASK_MANAGER_IDLE_WAKEUPS_COLUMN": true,
+         "IDS_TASK_MANAGER_JAVASCRIPT_MEMORY_ALLOCATED_COLUMN": true,
+         "IDS_TASK_MANAGER_KEEPALIVE_COUNT_COLUMN": true,
+         "IDS_TASK_MANAGER_MEMORY_STATE_COLUMN": true,
+         "IDS_TASK_MANAGER_NET_COLUMN": true,
+         "IDS_TASK_MANAGER_PHYSICAL_MEM_COLUMN": true,
+         "IDS_TASK_MANAGER_PRIVATE_MEM_COLUMN": true,
+         "IDS_TASK_MANAGER_PROCESS_ID_COLUMN": true,
+         "IDS_TASK_MANAGER_PROCESS_PRIORITY_COLUMN": true,
+         "IDS_TASK_MANAGER_PROFILE_NAME_COLUMN": false,
+         "IDS_TASK_MANAGER_SHARED_MEM_COLUMN": true,
+         "IDS_TASK_MANAGER_SQLITE_MEMORY_USED_COLUMN": true,
+         "IDS_TASK_MANAGER_START_TIME_COLUMN": true,
+         "IDS_TASK_MANAGER_TASK_COLUMN": true,
+         "IDS_TASK_MANAGER_USER_HANDLES_COLUMN": true,
+         "IDS_TASK_MANAGER_VIDEO_MEMORY_COLUMN": true,
+         "IDS_TASK_MANAGER_WEBCORE_CSS_CACHE_COLUMN": true,
+         "IDS_TASK_MANAGER_WEBCORE_IMAGE_CACHE_COLUMN": true,
+         "IDS_TASK_MANAGER_WEBCORE_SCRIPTS_CACHE_COLUMN": true,
+         "sort_column_id": "IDS_TASK_MANAGER_TASK_COLUMN",
+         "sort_is_ascending": true
+      },
+      "window_placement": {
+         "bottom": 571,
+         "left": 1026,
+         "maximized": false,
+         "right": 1502,
+         "top": 215,
+         "work_area_bottom": 1040,
+         "work_area_left": 0,
+         "work_area_right": 1920,
+         "work_area_top": 0
+      }
+   },
+   "ukm": {
+      "persisted_logs": [  ]
+   },
+   "uninstall_metrics": {
+      "installation_date2": "1533595440",
+      "launch_count": "218"
+   },
+   "user_experience_metrics": {
+      "low_entropy_source2": 597,
+      "reporting_enabled": false,
+      "session_id": 217,
+      "stability": {
+         "breakpad_registration_fail": 0,
+         "breakpad_registration_ok": 0,
+         "crash_count": 3,
+         "debugger_not_present": 28,
+         "debugger_present": 0,
+         "deferred_count": 0,
+         "discard_count": 2,
+         "execution_phase": 700,
+         "exited_cleanly": true,
+         "incomplete_session_end_count": 5,
+         "launch_count": 28,
+         "session_end_completed": true,
+         "stats_buildtime": "1535000400",
+         "stats_version": "9.5.0.138",
+         "version_mismatch_count": 0
+      }
+   },
+   "variations_crash_streak": 10,
+   "was": {
+      "restarted": false
+   }
+}

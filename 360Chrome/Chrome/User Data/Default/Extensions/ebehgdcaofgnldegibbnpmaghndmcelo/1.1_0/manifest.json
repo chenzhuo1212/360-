@@ -1,0 +1,20 @@
+{
+   "background": {
+      "page": "background/background.html"
+   },
+   "browser_action": {
+      "default_icon": "16.png",
+      "default_popup": "popup/popup.html",
+      "default_title": "立即提速"
+   },
+   "description": "全面提升家庭宽带网速，下载文件、玩游戏、看高清电影，快！让生活慢下来！还可享受每天免费提速",
+   "icons": {
+      "128": "128.png",
+      "16": "16.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3XDW9sbR5Jxcj2B0vmh5y0okAEpv1G+ANFVHzhzVotuDxF9JN+M+LJjsBk/JpGMuI8TZv4rkm7bOhrbgGybhwCVSaE4/uf0+l6WprWGE5s2oCgyIyfhwZwdEHA6LrBvgLQGOZVUm+eBcNB/nJHFUoybfaiHPTXNMR9qlmES6NY5nWFsXGaG4B4NrBh2G8HAcGGv5wgnKK7blJ1ICfUdtXY47Ms9ByTlfrH5rEHV08iQpJc1FlXJCUmveMLl1qEoSDozP4LMb27QFAmHRNVEAfL1lcH8bwH3nq8lD7VZE63msjY1a05yLQx6hYwusWB/xBsAy10B+ybXI0SMrm2FSywIDAQAB",
+   "manifest_version": 2,
+   "name": "迅雷快鸟",
+   "permissions": [ "http://*/*", "cookies" ],
+   "version": "1.1"
+}

@@ -1,0 +1,45 @@
+{
+   "checksum": "ecca3cfa9d7deef3668dbfbac0ab3148",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "data_ico": "0",
+            "date_added": "13180545406511945",
+            "id": "5",
+            "is_best": 0,
+            "meta_info": {
+               "last_visited_desktop": "13181075004771371"
+            },
+            "name": "TL-WR886N",
+            "type": "url",
+            "url": "http://192.168.31.94/"
+         } ],
+         "date_added": "13178069041227108",
+         "date_modified": "13180545406511945",
+         "id": "1",
+         "is_best": "0",
+         "name": "收藏栏",
+         "showfolderid": 0,
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13178069041227108",
+         "date_modified": "0",
+         "id": "2",
+         "is_best": "0",
+         "name": "其它收藏",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13178069041227108",
+         "date_modified": "0",
+         "id": "3",
+         "is_best": "0",
+         "name": "手机收藏夹",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

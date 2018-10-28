@@ -1,0 +1,14 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "icons": {
+      "128": "icon-128-coco.png",
+      "16": "icon-16-coco.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxytkXp5VgSC7YqP1PQT6bCH4mL5YJdfc+uIAEHb0e9QgOUwvt9LOXi136zmF+UrZR09ORbkN0YaPGbc/3x8TGnT0MZCX2V5dNTqB5BKXoXdRzNBTVvX7ewL7QDfvKpEpk12bdMy4AmJ9pS4n5n0HgA1Vbv7E5+oPyLzpNYdzcTVTNqjL9Ac+farnYwpSFNME0haY5h9sUNt+8jYBL8AY5SuGxTYa9AtvvIjTt9bWlg93qn3NIcJNaV+WdUOY1sGgH5CTnzWCsIroXxsWPZ9cfs7IEB4+m6uNzkyAVRsXg2WGiwMH2c7nS1lDJqtcpE2NzGSJlshcp3DFVCFOKWK4vwIDAQAB",
+   "manifest_version": 2,
+   "name": "Google CDN加速器",
+   "permissions": [ "*://*/*", "webRequest", "webRequestBlocking" ],
+   "version": "1.0.0"
+}

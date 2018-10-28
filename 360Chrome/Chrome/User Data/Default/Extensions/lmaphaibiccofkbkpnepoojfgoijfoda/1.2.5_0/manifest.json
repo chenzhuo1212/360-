@@ -1,0 +1,32 @@
+{
+   "author": "aleen42",
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js", "jquery-2.1.4.min.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "logo19_19.png",
+         "38": "logo19_19@2x.png"
+      },
+      "default_title": "声牙，视频加速去广告"
+   },
+   "commands": {
+      "_execute_browser_action": {
+         "suggested_key": {
+            "default": "Ctrl+Shift+L"
+         }
+      }
+   },
+   "description": "3000000人都在用，观看在线视频4倍加速，并去除广告。只需按一下，即可体验全网最干净极速的视频互动。",
+   "icons": {
+      "128": "logo128_128.png",
+      "48": "logo48_48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAswdKq8DXGppoxzQcK7g8xcmNjrb4k6BMlvFUvj1dAAvJxjLkXUnknxaa00lT+0E/hWnmRNaqlssdsRVYVhjyPFHMQ97/tHcflJF1AQ3WSqWC8hAbhTkmEVCdE36kiYK3MC1BWIKo6fDLbTUYwAdwsaJ8liwMP2mbyq4iMSWkT3A6YKfzlF8018uDkRgaxyaNDkeSB2xVvkPZRsZCfqGK1na6mXfBEZK1LrDsbxLUf+e4UOXJxAZPWNZBCHkItcKrkvQVqkQbFSSfSMFkn//5LqHVy8T8/j8fVkfUpi8woXQgDf9rTT+fPMnlaIWxtIVRJ8WsMo4/m7n15nTjny1+8QIDAQAB",
+   "manifest_version": 2,
+   "name": "声牙-视频加速/去广告",
+   "permissions": [ "tabs", "http://video.soundtooth.cn/", "activeTab", "*://*/*" ],
+   "short_name": "声牙",
+   "version": "1.2.5"
+}
