@@ -1,6 +1,6 @@
 {
    "account_id_migration_state": 2,
-   "account_tracker_service_last_update": "13185239081810323",
+   "account_tracker_service_last_update": "13184308117343443",
    "adblock": {
       "cloud_tips_mode": 0
    },
@@ -17,11 +17,11 @@
       "app_window_placement": {
          "DevToolsApp": {
             "always_on_top": false,
-            "bottom": 1258,
-            "left": 488,
+            "bottom": 1142,
+            "left": 88,
             "maximized": false,
-            "right": 1799,
-            "top": 174,
+            "right": 1399,
+            "top": 58,
             "work_area_bottom": 1040,
             "work_area_left": 0,
             "work_area_right": 1920,
@@ -60,15 +60,15 @@
       "prerender_url_under_mouse": {
          "enable": true
       },
-      "prerender_url_under_mouse_times": "171",
+      "prerender_url_under_mouse_times": "170",
       "should_reset_check_default_browser": false,
       "smart_pre_heat_times": "25",
       "window_placement": {
-         "bottom": 1065,
-         "left": 34,
+         "bottom": 1115,
+         "left": 124,
          "maximized": false,
-         "right": 978,
-         "top": 25,
+         "right": 1174,
+         "top": 75,
          "work_area_bottom": 1040,
          "work_area_left": 0,
          "work_area_right": 1920,
@@ -77,35 +77,35 @@
    },
    "countryid_at_install": 17230,
    "data_reduction": {
-      "daily_original_length": [ "444001326", "1803275", "0", "0", "16788526", "0", "3751749", "78174", "0", "407189", "67919422", "5826519", "0", "0", "0", "0", "5391599", "1740632", "3655854", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "101086265", "1998336612", "2075091363", "3879402696", "1354630706", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "6470338", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "759236514" ],
-      "daily_original_length_application": "4464497",
-      "daily_original_length_unknown": "2258",
+      "daily_original_length": [ "135736590", "249268785", "230523501", "0", "193609586", "176875476", "3039430891", "1191646778", "0", "120321353", "3959627108", "444001326", "1803275", "0", "0", "16788526", "0", "3751749", "78174", "0", "407189", "67919422", "5826519", "0", "0", "0", "0", "5391599", "1740632", "3655854", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "101086265", "1998336612", "2075091363", "3879402696", "1354630706", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "6470338" ],
+      "daily_original_length_application": "348298",
+      "daily_original_length_unknown": "248",
       "daily_original_length_via_data_reduction_proxy": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_original_length_via_data_reduction_proxy_application": "0",
       "daily_original_length_via_data_reduction_proxy_unknown": "0",
       "daily_original_length_via_data_reduction_proxy_video": "0",
-      "daily_original_length_video": "731485856",
+      "daily_original_length_video": "0",
       "daily_original_length_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_original_length_with_data_reduction_proxy_enabled_application": "0",
       "daily_original_length_with_data_reduction_proxy_enabled_unknown": "0",
       "daily_original_length_with_data_reduction_proxy_enabled_video": "0",
-      "daily_received_length": [ "444001326", "1803275", "0", "0", "16788526", "0", "3751749", "78174", "0", "407189", "67919422", "5826519", "0", "0", "0", "0", "5391599", "1740632", "3655854", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "101086265", "1998336612", "2075091363", "3879402696", "1354630706", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "6470338", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "759236514" ],
-      "daily_received_length_application": "4464497",
+      "daily_received_length": [ "135736590", "249268785", "230523501", "0", "193609586", "176875476", "3039430891", "1191646778", "0", "120321353", "3959627108", "444001326", "1803275", "0", "0", "16788526", "0", "3751749", "78174", "0", "407189", "67919422", "5826519", "0", "0", "0", "0", "5391599", "1740632", "3655854", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "101086265", "1998336612", "2075091363", "3879402696", "1354630706", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "6470338" ],
+      "daily_received_length_application": "348298",
       "daily_received_length_https_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_received_length_long_bypass_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_received_length_short_bypass_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
-      "daily_received_length_unknown": "2258",
+      "daily_received_length_unknown": "248",
       "daily_received_length_unknown_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_received_length_via_data_reduction_proxy": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_received_length_via_data_reduction_proxy_application": "0",
       "daily_received_length_via_data_reduction_proxy_unknown": "0",
       "daily_received_length_via_data_reduction_proxy_video": "0",
-      "daily_received_length_video": "731485856",
+      "daily_received_length_video": "0",
       "daily_received_length_with_data_reduction_proxy_enabled": [ "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0" ],
       "daily_received_length_with_data_reduction_proxy_enabled_application": "0",
       "daily_received_length_with_data_reduction_proxy_enabled_unknown": "0",
       "daily_received_length_with_data_reduction_proxy_enabled_video": "0",
-      "last_update_date": "13185216000000000"
+      "last_update_date": "13184265600000000"
    },
    "data_reduction_lo_fi": {
       "load_images_requests_per_session": 0,
@@ -177,17 +177,16 @@
       }
    },
    "download": {
-      "default_directory": "E:\\360极速浏览器下载",
       "directory_upgrade": true,
       "history": {
-         "dirs": [ "K:\\", "C:\\Users\\Administrator\\Desktop", "D:\\360极速浏览器下载", "E:\\360极速浏览器下载" ]
+         "dirs": [ "E:\\360极速浏览器下载", "K:\\", "C:\\Users\\Administrator\\Desktop", "D:\\360极速浏览器下载" ]
       },
-      "last_directory": "E:\\360极速浏览器下载",
+      "last_directory": "D:\\360极速浏览器下载",
       "use_last_dir": 0
    },
    "ee": {
       "browser": {
-         "history_count": 0
+         "history_count": 75
       }
    },
    "extensions": {
@@ -195,8 +194,8 @@
          "initialized": true
       },
       "autoupdate": {
-         "last_check": "13185239812739491",
-         "next_check": "13185257651948382"
+         "last_check": "13183329937254552",
+         "next_check": "13184308231123443"
       },
       "chrome_url_overrides": {
          "bookmarks": [ {
@@ -212,7 +211,7 @@
          }
       },
       "garbagecollect": {
-         "lasttime": "13185239333792350"
+         "lasttime": "13180804787778306"
       },
       "last_chrome_version": "9.5.0.138",
       "settings": {
@@ -969,10 +968,10 @@
       "product_category_for_subtypes": "cn.360chrome.windows"
    },
    "hmi": false,
-   "homepage": "http://hao.360.cn/",
+   "homepage": "https://hao.360.cn/?wd_xp1",
    "homepage_is_newtabpage": false,
-   "http_original_content_length": "24384816991",
-   "http_received_content_length": "24384816991",
+   "http_original_content_length": "23625580477",
+   "http_received_content_length": "23625580477",
    "ie": {
       "enable_dep": true
    },
@@ -983,7 +982,7 @@
       "kMGPUserOpenNewTabOrder": 0
    },
    "media": {
-      "device_id_salt": "C0MbsqVP8AfXvJHoL1vARw==",
+      "device_id_salt": "49gt1T4dZQNwB/OB+dbxgQ==",
       "engagement": {
          "schema_version": 3
       }
@@ -1204,7 +1203,7 @@
       "exit_type": "Normal",
       "exited_cleanly": true,
       "icon_version": 4,
-      "last_engagement_time": "13185251089406607",
+      "last_engagement_time": "13183337634298372",
       "managed_user_id": "",
       "name": "用户1",
       "per_host_zoom_levels": {

@@ -30,13 +30,13 @@
    },
    "hardware_acceleration_mode_previous": true,
    "password_manager": {
-      "os_password_blank": true,
-      "os_password_last_changed": "13183338901856837"
+      "os_password_blank": false,
+      "os_password_last_changed": "13182821876839905"
    },
    "profile": {
       "info_cache": {
          "Default": {
-            "active_time": 1540779945.286822,
+            "active_time": 1539834517.690885,
             "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
             "background_apps": false,
             "gaia_id": "",
@@ -70,22 +70,22 @@
          "url": "",
          "version": ""
       },
-      "last_update": "13185239097341194"
+      "last_update": "13184308132686193"
    },
    "startup_metric": {
-      "last_startup_timestamp": "13185248294619910",
+      "last_startup_timestamp": "13184308116293168",
       "last_startup_version": "9.5.0.138",
-      "same_version_startup_count": 32
+      "same_version_startup_count": 28
    },
    "sync_login_info": {
       "filepath": "",
       "qid": ""
    },
    "tab_stats": {
-      "last_daily_sample": "13185239082226424",
-      "max_tabs_per_window": 4,
-      "total_tab_count_max": 8,
-      "window_count_max": 3
+      "last_daily_sample": "13184308117714885",
+      "max_tabs_per_window": 2,
+      "total_tab_count_max": 2,
+      "window_count_max": 1
    },
    "task_manager": {
       "column_visibility": {
@@ -131,24 +131,24 @@
    },
    "uninstall_metrics": {
       "installation_date2": "1533595440",
-      "launch_count": "222"
+      "launch_count": "218"
    },
    "user_experience_metrics": {
       "low_entropy_source2": 597,
-      "reporting_enabled": true,
-      "session_id": 221,
+      "reporting_enabled": false,
+      "session_id": 217,
       "stability": {
          "breakpad_registration_fail": 0,
          "breakpad_registration_ok": 0,
          "crash_count": 3,
-         "debugger_not_present": 32,
+         "debugger_not_present": 28,
          "debugger_present": 0,
          "deferred_count": 0,
          "discard_count": 2,
          "execution_phase": 700,
          "exited_cleanly": true,
-         "incomplete_session_end_count": 6,
-         "launch_count": 32,
+         "incomplete_session_end_count": 5,
+         "launch_count": 28,
          "session_end_completed": true,
          "stats_buildtime": "1535000400",
          "stats_version": "9.5.0.138",
