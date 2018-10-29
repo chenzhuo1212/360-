@@ -36,7 +36,7 @@
    "profile": {
       "info_cache": {
          "Default": {
-            "active_time": 1539834517.690885,
+            "active_time": 1540770292.201107,
             "avatar_icon": "chrome://theme/IDR_PROFILE_AVATAR_0",
             "background_apps": false,
             "gaia_id": "",
@@ -70,21 +70,21 @@
          "url": "",
          "version": ""
       },
-      "last_update": "13184308132686193"
+      "last_update": "13185243907062609"
    },
    "startup_metric": {
-      "last_startup_timestamp": "13184308116293168",
+      "last_startup_timestamp": "13185243889142830",
       "last_startup_version": "9.5.0.138",
-      "same_version_startup_count": 28
+      "same_version_startup_count": 29
    },
    "sync_login_info": {
       "filepath": "",
       "qid": ""
    },
    "tab_stats": {
-      "last_daily_sample": "13184308117714885",
-      "max_tabs_per_window": 2,
-      "total_tab_count_max": 2,
+      "last_daily_sample": "13185243892365107",
+      "max_tabs_per_window": 1,
+      "total_tab_count_max": 1,
       "window_count_max": 1
    },
    "task_manager": {
@@ -131,24 +131,24 @@
    },
    "uninstall_metrics": {
       "installation_date2": "1533595440",
-      "launch_count": "218"
+      "launch_count": "219"
    },
    "user_experience_metrics": {
       "low_entropy_source2": 597,
       "reporting_enabled": false,
-      "session_id": 217,
+      "session_id": 218,
       "stability": {
          "breakpad_registration_fail": 0,
          "breakpad_registration_ok": 0,
          "crash_count": 3,
-         "debugger_not_present": 28,
+         "debugger_not_present": 29,
          "debugger_present": 0,
          "deferred_count": 0,
          "discard_count": 2,
          "execution_phase": 700,
          "exited_cleanly": true,
          "incomplete_session_end_count": 5,
-         "launch_count": 28,
+         "launch_count": 29,
          "session_end_completed": true,
          "stats_buildtime": "1535000400",
          "stats_version": "9.5.0.138",
