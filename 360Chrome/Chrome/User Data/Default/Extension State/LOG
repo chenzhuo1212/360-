@@ -1,3 +1,11 @@
-2018/10/18-11:48:41.241 5884 Reusing MANIFEST d:\360浏览器\360chrome\chrome\User Data\Default\Extension State/MANIFEST-000001
-2018/10/18-11:48:41.242 5884 Recovering log #41
-2018/10/18-11:48:41.306 5884 Reusing old log d:\360浏览器\360chrome\chrome\User Data\Default\Extension State/000041.log 
+2018/10/29-08:58:21.428 8664 Reusing MANIFEST d:\360浏览器\360chrome\chrome\User Data\Default\Extension State/MANIFEST-000001
+2018/10/29-08:58:21.434 2124 Compacting 6@0 + 0@1 files
+2018/10/29-08:58:21.675 2124 Generated table #46@0: 6 keys, 3572 bytes
+2018/10/29-08:58:21.675 2124 Compacted 6@0 + 0@1 files => 3572 bytes
+2018/10/29-08:58:21.677 2124 compacted to: files[ 0 1 0 0 0 0 0 ]
+2018/10/29-08:58:21.678 2124 Delete type=2 #5
+2018/10/29-08:58:21.680 2124 Delete type=2 #33
+2018/10/29-08:58:21.683 2124 Delete type=2 #36
+2018/10/29-08:58:21.686 2124 Delete type=2 #39
+2018/10/29-08:58:21.691 2124 Delete type=2 #42
+2018/10/29-08:58:21.695 2124 Delete type=2 #43
