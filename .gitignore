@@ -1,5 +1,7 @@
 
+<<<<<<< HEAD
 chenzhuo1122-1/
+<<<<<<< HEAD
 360Chrome/Chrome/User Data/Default/Local Storage/leveldb/000681.log
 *.dll
 *.exe
@@ -70,3 +72,18 @@ chenzhuo1122-1/
 360Chrome/Chrome/User Data/Default/Top Sites
 360Chrome/Chrome/User Data/Default/Web Data
 360Chrome/Chrome/User Data/Local State
+=======
+=======
+360Chrome/Chrome/Application/9.5.0.138/360BDoctorExt/360Base.dll
+360Chrome/Chrome/Application/9.5.0.138/360BDoctorExt/360Common.dll
+360Chrome/Chrome/Application/9.5.0.138/360BDoctorExt/bin/360FeedBack.xml
+360Chrome/Chrome/Application/9.5.0.138/360BDoctorExt/bin/360NetUL.dll
+360Chrome/Chrome/Application/9.5.0.138/360BDoctorExt/bin/feedback.ui
+360Chrome/Chrome/Application/9.5.0.138/360BDoctorExt/bin/360ScreenCapture.exe
+360Chrome/Chrome/Application/9.5.0.138/360BDoctorExt/Config/config.xml
+360Chrome/Chrome/Application/9.5.0.138/360BDoctorExt/Config/defaultskin/defaultskin.ui
+360Chrome/Chrome/Application/9.5.0.138/360BDoctorExt/Config/defaultskin/MiniUI.xml
+360Chrome/Chrome/Application/9.5.0.138/360BDoctorExt/MiniUI9.dll
+360Chrome/Chrome/Application/9.5.0.138/360BDoctorExt/sites.dll
+>>>>>>> 9801ed666db7db850e79b9b0c1bca86e9e6d42b5
+>>>>>>> master
